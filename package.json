@@ -1,6 +1,6 @@
 {
   "name": "tslint-disable-directory",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "bin": "index.js",
   "description": "Add at the first line the string /* tslint:disable */ to all the ts files in a directory",
   "main": "index.js",
