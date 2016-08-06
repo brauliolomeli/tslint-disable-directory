@@ -1,0 +1,25 @@
+{
+  "name": "tslint-disable-directory",
+  "version": "0.0.1",
+  "description": "Add at the first line the string /* tslint:disable */ to all the ts files in a directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brauliolomeli/tslint-disable-directory.git"
+  },
+  "keywords": [
+    "disable",
+    "ignore",
+    "tslint",
+    "directory"
+  ],
+  "author": "Braulio Lomeli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brauliolomeli/tslint-disable-directory/issues"
+  },
+  "homepage": "https://github.com/brauliolomeli/tslint-disable-directory#readme"
+}
